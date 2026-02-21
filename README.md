@@ -5,7 +5,7 @@ AnonChat is a **real-time chat application** built to demonstrate how to design 
 This is not a toy example.
 The project focuses on **microservices**, **authentication**, and **WebSocket-based messaging**, with a clean API and clear service boundaries.
 
-Backend is written in **Golang**, frontend in **React** *(generated with Cursor)*.
+Backend is written in **Golang**, frontend in **React** *(frontend generated with Cursor)*.
 
 ---
 
@@ -128,7 +128,7 @@ MIT — free to use, modify, and learn from.
 AnonChat — это **чат с живыми WebSocket-соединениями**, сделанный как **бэкенд-проект, близкий к продакшену**, а не учебная демка.
 
 Основной фокус — **архитектура, авторизация и real-time логика**.
-Бэкенд написан на **Go**, фронт — на **React** *(собран через Cursor)*.
+Бэкенд написан на **Go**, фронт — на **React** *(frontend собран через Cursor)*.
 
 ---
 
@@ -171,3 +171,4 @@ AnonChat можно спокойно использовать как основ�
 ## Лицензия
 
 MIT — используй, модифицируй, учись.
+
