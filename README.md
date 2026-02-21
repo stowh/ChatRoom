@@ -1,6 +1,6 @@
-# AnonChat 💬
+# ChatRoom 💬
 
-AnonChat is a **real-time chat application** built to demonstrate how to design and implement a **production-style backend** using **Go**.
+ChatRoom is a **real-time chat application** built to demonstrate how to design and implement a **production-style backend** using **Go**.
 
 This is not a toy example.
 The project focuses on **microservices**, **authentication**, and **WebSocket-based messaging**, with a clean API and clear service boundaries.
@@ -123,9 +123,9 @@ MIT — free to use, modify, and learn from.
 
 ---
 
-# AnonChat 💬 (RU)
+# ChatRoom 💬 (RU)
 
-AnonChat — это **чат с живыми WebSocket-соединениями**, сделанный как **бэкенд-проект, близкий к продакшену**, а не учебная демка.
+ChatRoom — это **чат с живыми WebSocket-соединениями**, сделанный как **бэкенд-проект, близкий к продакшену**, а не учебная демка.
 
 Основной фокус — **архитектура, авторизация и real-time логика**.
 Бэкенд написан на **Go**, фронт — на **React** *(frontend собран через Cursor)*.
@@ -171,4 +171,5 @@ AnonChat можно спокойно использовать как основ�
 ## Лицензия
 
 MIT — используй, модифицируй, учись.
+
 
